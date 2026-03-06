@@ -10,3 +10,15 @@ C:\Users\Stanley\Desktop\BS\lab1\lab1\dll\obj\Debug\net10.0\dll.dll
 C:\Users\Stanley\Desktop\BS\lab1\lab1\dll\obj\Debug\net10.0\refint\dll.dll
 C:\Users\Stanley\Desktop\BS\lab1\lab1\dll\obj\Debug\net10.0\dll.pdb
 C:\Users\Stanley\Desktop\BS\lab1\lab1\dll\obj\Debug\net10.0\ref\dll.dll
+C:\Users\Stanley\Desktop\BS\lab1\dll\bin\Debug\net10.0\dll.deps.json
+C:\Users\Stanley\Desktop\BS\lab1\dll\bin\Debug\net10.0\dll.dll
+C:\Users\Stanley\Desktop\BS\lab1\dll\bin\Debug\net10.0\dll.pdb
+C:\Users\Stanley\Desktop\BS\lab1\dll\obj\Debug\net10.0\dll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stanley\Desktop\BS\lab1\dll\obj\Debug\net10.0\dll.AssemblyInfoInputs.cache
+C:\Users\Stanley\Desktop\BS\lab1\dll\obj\Debug\net10.0\dll.AssemblyInfo.cs
+C:\Users\Stanley\Desktop\BS\lab1\dll\obj\Debug\net10.0\dll.csproj.CoreCompileInputs.cache
+C:\Users\Stanley\Desktop\BS\lab1\dll\obj\Debug\net10.0\dll.sourcelink.json
+C:\Users\Stanley\Desktop\BS\lab1\dll\obj\Debug\net10.0\dll.dll
+C:\Users\Stanley\Desktop\BS\lab1\dll\obj\Debug\net10.0\refint\dll.dll
+C:\Users\Stanley\Desktop\BS\lab1\dll\obj\Debug\net10.0\dll.pdb
+C:\Users\Stanley\Desktop\BS\lab1\dll\obj\Debug\net10.0\ref\dll.dll

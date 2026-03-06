@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stanley\\Desktop\\BS\\lab1\\lab1\\app\\app.csproj",
+      "projectUniqueName": "C:\\Users\\Stanley\\Desktop\\BS\\lab1\\app\\app.csproj",
       "projectName": "app",
-      "projectPath": "C:\\Users\\Stanley\\Desktop\\BS\\lab1\\lab1\\app\\app.csproj",
+      "projectPath": "C:\\Users\\Stanley\\Desktop\\BS\\lab1\\app\\app.csproj",
       "packagesPath": "C:\\Users\\Stanley\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stanley\\Desktop\\BS\\lab1\\lab1\\app\\obj\\",
+      "outputPath": "C:\\Users\\Stanley\\Desktop\\BS\\lab1\\app\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Stanley\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net10.0-windows7.0": {
           "targetAlias": "net10.0-windows",
           "projectReferences": {
-            "C:\\Users\\Stanley\\Desktop\\BS\\lab1\\lab1\\dll\\dll.csproj": {
-              "projectPath": "C:\\Users\\Stanley\\Desktop\\BS\\lab1\\lab1\\dll\\dll.csproj"
+            "C:\\Users\\Stanley\\Desktop\\BS\\lab1\\dll\\dll.csproj": {
+              "projectPath": "C:\\Users\\Stanley\\Desktop\\BS\\lab1\\dll\\dll.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stanley\\Desktop\\BS\\lab1\\lab1\\dll\\dll.csproj": {}
+    "C:\\Users\\Stanley\\Desktop\\BS\\lab1\\dll\\dll.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stanley\\Desktop\\BS\\lab1\\lab1\\dll\\dll.csproj": {
+    "C:\\Users\\Stanley\\Desktop\\BS\\lab1\\dll\\dll.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stanley\\Desktop\\BS\\lab1\\lab1\\dll\\dll.csproj",
+        "projectUniqueName": "C:\\Users\\Stanley\\Desktop\\BS\\lab1\\dll\\dll.csproj",
         "projectName": "dll",
-        "projectPath": "C:\\Users\\Stanley\\Desktop\\BS\\lab1\\lab1\\dll\\dll.csproj",
+        "projectPath": "C:\\Users\\Stanley\\Desktop\\BS\\lab1\\dll\\dll.csproj",
         "packagesPath": "C:\\Users\\Stanley\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stanley\\Desktop\\BS\\lab1\\lab1\\dll\\obj\\",
+        "outputPath": "C:\\Users\\Stanley\\Desktop\\BS\\lab1\\dll\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stanley\\AppData\\Roaming\\NuGet\\NuGet.Config"
