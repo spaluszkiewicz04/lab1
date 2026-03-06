@@ -1,4 +1,3 @@
 Programowanie Wizualne
 
-Laboratorium 1
-Kalkulator
+Laboratorium 1 - Kalkulator
